@@ -8,7 +8,6 @@
   <img align="center" alt="Andrey-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andrey-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andrey-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Andrey-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/java-original.svg">
 <br><br>
 </div>
 
