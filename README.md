@@ -1,15 +1,55 @@
-<div>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=andreybernardoni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreybernardoni&layout=compact&langs_count=8&theme=midnight-purple&hide=hack"/>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andrey-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andrey-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andrey-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andrey-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<br><br>
-</div>
+<p align="left"> 
+  Sou um profissional com experiência na área de computação em nuvem: Microsoft Azure e Oracle Cloud Infrastructure. Também tenho habilidades em Security Fundamentals, DevOps, API's e ISO 27001. Meu objetivo é desenvolver na área de tecnologia da informação, buscando sempre me aprimorar e aprender novas competências.
 
-  <a href = "mailto:fialho.andrey2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreyfialho/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Tenho formação em Técnico em informática para internet pelo Instituto Federal Sul-rio-grandense (IFSul) e certificações em Microsoft Azure Fundamentals (AZ-900), Oracle Cloud Infrastructure Foundations 2023 Associate (1Z0-1085-20) e Security Fundamentals (SC-900).
+
+Falo português (nativo), inglês (avançado) e espanhol (básico). Tenho facilidade de comunicação, trabalho em equipe e resolução de problemas.
+
+Além disso, desenvolvi projetos como:
+
+- Medical: O MediCal é um aplicativo móvel que ajuda idosos e seus cuidadores a gerenciar e seguir seus tratamentos medicamentosos. O aplicativo usa Flutter, Google Cloud Functions e Firebase, que oferecem serviços de nuvem como autenticação, armazenamento e banco de dados.
+
+Estou sempre em busca de novos desafios e oportunidades de crescimento profissional.
+
+</p>
+
+<p align="left">
+  Desenvolvimento Web: **.NET, JS, React, NodeJs, NextJS.**
+</p>
+
+<p align="left">
+  Desenvolvimento Mobile: **Dart, Firebase, Flutter.**
+</p>
+
+<p align="left">
+  Versionamento de Código: **Github, AzureRepos, Git.**
+</p>
+
+<p align="left">
+  Bancos de dados: **Microsoft SQL Server, MongoDB, PostgreeSQL, MySQL.**
+</p>
+
+<p align="left">
+  Sistemas Operacionais: **Microsoft, Linux, MacOS.**
+</p>
+
+<p align="left">
+  Nuvem: **Azure, AWS, Oracle.**
+</p>
+
+<p align="left">
+  💌 Se você quiser saber mais sobre mim, entre em contato pelo meu e-mail andreyfialho@outlook.com
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=andreyfialho@outlook.com" alt="Gmail"/></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreyfialho/" alt="LinkedIn"/></a>
+
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://whatsa.me/5551986073146" alt="WhatsApp"/></a>
+</p>
